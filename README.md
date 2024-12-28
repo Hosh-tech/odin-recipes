@@ -1,1 +1,2 @@
 # odin-recipes
+I want to build this simple website to store all of mine and my girlfriend's recipes in digital form. Using Odin Project as guidance I hope to build this into a nice to browse home-use webpage.
